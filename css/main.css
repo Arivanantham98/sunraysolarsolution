@@ -2360,30 +2360,8 @@ background-color: lightgoldenrodyellow;
   border-color: #862121;
 }
 
-.message-warning,
-.message-success {
-  display: none;
-  background: #ffffff;
-  font-size: 1.5rem;
-  line-height: 2;
-  padding: 3rem;
-  margin-bottom: 3.6rem;
-  width: 100%;
-}
 
-.message-warning {
-  color: #ff6163;
-}
 
-.message-success {
-  color: #008c2c;
-}
-
-.message-warning i,
-.message-success i {
-  margin-right: 10px;
-  font-size: 1.2rem;
-}
 
 /* form loader */
 
