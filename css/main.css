@@ -2276,8 +2276,8 @@ background-color: lightgoldenrodyellow;
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  background-image: url(../images/862208.jpg);  background-repeat: no-repeat;
-  background-position: center, center;
+  background-image: url(../images/contact.jpg);  background-repeat: no-repeat;
+  background-position: cover;
   color: #ffffff  ;
   position: relative;
   min-height: 100vh;
@@ -2294,8 +2294,8 @@ background-color: lightgoldenrodyellow;
 .s-contact .section-intro h1 {
   color: #ffffff;
 }
-.s-contact h1{
-  padding-top: 5rem;
+.contact-header{
+  padding-top: 10rem;
 }
 .s-contact .section-intro p {
   color: #ffffff;
