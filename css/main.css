@@ -2289,14 +2289,14 @@ background-color: lightgoldenrodyellow;
   left: 0;
   width: 100%;
   height: 100%;
- 
 }
 
 .s-contact .section-intro h1 {
-  padding-top: 10rem;
   color: #ffffff;
 }
-
+.s-contact h1{
+  padding-top: 5rem;
+}
 .s-contact .section-intro p {
   color: #ffffff;
 }
