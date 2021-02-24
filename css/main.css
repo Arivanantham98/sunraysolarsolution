@@ -2281,6 +2281,7 @@ background-color: lightgoldenrodyellow;
   color: #ffffff  ;
   position: relative;
   min-height: 100vh;
+  font-family: 'Times New Roman';
 }
 
 .s-contact .overlay {
